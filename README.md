@@ -1,6 +1,6 @@
 # 📈Bruno Queles
 
-**`Especialista de dados`**
+**`Engenheiro de dados`**
 
 Me chamo Bruno Ferreira Queles, sou natural de Minas Gerais. Formado em Administração de empresas, Pós graduado em Gestão de Negócios, Gestão Financeira e Custos também com MBA Executivo em Gestão de Projetos. Cursos de Extensão em Controladoria e Especialização em FP&A fazem parte da minha formação. Atualmente 👨🏻‍💻 **Estudante** de Ciência de Dados na [Preditiva Analytics](https://www.preditiva.ai.com.br/).
 <br>

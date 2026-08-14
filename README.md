@@ -22,6 +22,9 @@ Simulação de plataforma Lakehouse para operação multi-país (Brasil, México
 **[POC Pulse Health Observability](https://github.com/brunofqueles/poc-pulse-health-observability)**
 Plataforma de observabilidade de pipelines de dados, simulando um conglomerado de Life Sciences no Databricks Free Edition.
 
+**[MCP Databricks Server](https://github.com/brunofqueles/mcp-databricks-server)**
+Servidor MCP (Model Context Protocol) construído do zero para expor operações do Unity Catalog do Databricks a clientes de IA como Claude Code — PoC técnica com foco em profundidade de protocolo.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias

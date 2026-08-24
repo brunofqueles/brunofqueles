@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados e IA`**
 
-Profissional de dados com mais de 6 anos de experiência em arquitetura e engenharia de dados em nuvem (Azure e AWS), com atuação em Databricks, PySpark, Delta Lake e Unity Catalog. Atuei na modernização da plataforma analítica LATAM da Unilever (via NTT DATA) e na migração da arquitetura de dados da Userede (Grupo Itaú) para AWS, além de projetos de análise preditiva e arquitetura Lakehouse na Vivo (Telefônica). Desenvolvi Agentes de IA para automatizar documentação técnica e revisão de código, aplicando IA Generativa (LLMs) no dia a dia da engenharia de dados. Certificado em [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/BrunoFerreiraQueles-9460/310255DB56C0F1BA?sharingId=6D376913C63D900E), sigo em aprofundamento contínuo rumo à certificação Databricks Certified Data Engineer Associate.
+Profissional de dados com mais de 7 anos de experiência em arquitetura e engenharia de dados em nuvem (Azure e AWS), com atuação em Databricks, PySpark, Delta Lake e Unity Catalog. Atuei na modernização da plataforma analítica LATAM da Unilever (via NTT DATA) e na migração da arquitetura de dados da Userede (Grupo Itaú) para AWS, além de projetos de análise preditiva e arquitetura Lakehouse na Vivo (Telefônica). Desenvolvi Agentes de IA para automatizar documentação técnica e revisão de código, aplicando IA Generativa (LLMs) no dia a dia da engenharia de dados. Certificado em [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/BrunoFerreiraQueles-9460/310255DB56C0F1BA?sharingId=6D376913C63D900E), sigo em aprofundamento contínuo rumo à certificação Databricks Certified Data Engineer Associate.
 
 <br>
 

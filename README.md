@@ -25,8 +25,9 @@ Plataforma de observabilidade de pipelines de dados, simulando um conglomerado d
 **[MCP Databricks Server](https://github.com/brunofqueles/mcp-databricks-server)**
 Servidor MCP (Model Context Protocol) construído do zero para expor operações do Unity Catalog do Databricks a clientes de IA como Claude Code — PoC técnica com foco em profundidade de protocolo.
 
-**[Modernização de Dados B3](https://github.com/brunofqueles/b3-modernizacao-dados)**
-Migração de pipeline de dados de mercado de capitais de ferramenta visual (KNIME, simulando Alteryx) para arquitetura Medallion em Databricks — PySpark, Unity Catalog, orquestração via Workflows e reconciliação automatizada entre sistema legado e novo, com foco em governança e rastreabilidade.
+**[Modernização de Dados B3](https://github.com/brunofqueles/b3-modernizacao-dados)** Migração de pipeline de mercado de capitais (KNIME → Databricks), arquitetura Medallion em PySpark, orquestração via Workflows e reconciliação automatizada entre sistema legado e novo.
+
+---
 ---
 
 ### 🤖 Linguagens e Tecnologias
